@@ -1,0 +1,66 @@
+package algo2.semana02.lab;
+
+import java.util.Scanner;
+
+public class CalculadorBinario {
+	private int op1;
+	private int op2;
+	private String operador;
+	
+	public CalculadorBinario(int op1, int op2, String operador) {
+		super();
+		this.op1 = op1;
+		this.op2 = op2;
+		this.operador = operador;
+		
+	}
+
+	public int getOp1() {
+		return op1;
+	}
+
+	public int getOp2() {
+		return op2;
+	}
+
+	public String getOperador() {
+		return operador;
+	}
+	
+	public double getResultado() {
+		double result = 0;
+		switch (operador) {
+		case "+": 
+			result = op1 + op2;
+			break;
+		case "-": 
+			result = op1 - op2;
+			break;
+		case "*": 
+			result = op1 * op2;
+			break;
+		case "/": 
+			if (op2 == 0) {
+				throw new RuntimeException("No se puede dividir entre cero");
+			}
+			result = (double)op1 / op2;
+			break;
+		default: 
+			throw new RuntimeException("Operador no soportado");
+		}
+		return result;
+	}
+	
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		int n1=0, n2=0;
+		String Op;
+		System.out.println("Escribe el primer número, el operador y el segundo número.");
+		n1 = entrada.nextInt(); Op = entrada.next(); n2 = entrada.nextInt();
+		CalculadorBinario Primero = new CalculadorBinario(n1, n2, Op);
+		double resultado = Primero.getResultado();
+		System.out.println("El resultado es: "+ resultado);
+		entrada.close();
+	}
+		
+}

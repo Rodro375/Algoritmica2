@@ -1,0 +1,8 @@
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:138)
+	at algo2.semana01.intro.BinaryCalculatorTest.testGetResultadoConOperadorNoValido(BinaryCalculatorTest.java:19)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
