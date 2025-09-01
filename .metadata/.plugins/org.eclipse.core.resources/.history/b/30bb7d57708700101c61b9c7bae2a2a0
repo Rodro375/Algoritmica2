@@ -1,0 +1,23 @@
+package algo2.semana02.lab;
+
+class A {}
+final class B{}
+class C {
+	public void met1() {}
+	public final void met2() {}
+}
+
+class A1 extends A{}
+class C1 extends C {
+	public void met1() {}
+	
+	//public void met2() {} //Error
+}
+
+public class FinalDemo {
+	private final int CANTIDAD = 10;
+	
+	public void demo() {
+		//CANTIDAD = 20; //Error
+	}
+}

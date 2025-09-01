@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\algo2\2025-2\workspace\.git"/>
 	<section name="GitImportWizard">
 		<section name="GitImportWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="833"/>

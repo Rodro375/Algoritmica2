@@ -18,6 +18,7 @@ public class FinalDemo {
 	private final int CANTIDAD = 10;
 	
 	public void demo() {
+		System.out.println(CANTIDAD);
 		//CANTIDAD = 20; //Error
 	}
 }
