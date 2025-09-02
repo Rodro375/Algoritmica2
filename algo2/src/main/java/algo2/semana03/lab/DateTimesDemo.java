@@ -24,12 +24,13 @@ public class DateTimesDemo {
 		System.out.format("%nEste momento en otras ciudades:%n");
 		DateTimeFormatter dtFormat = DateTimeFormatter.ofPattern("EEEE dd/MMMM/yyyy HH:mm:ss");
 		LocalDateTime ahoraEnSaoPaulo = LocalDateTime.now(ZoneId.of("America/Sao_Paulo"));  //"UTC-05:00" "Australia/Sydney" "America/Sao_Paulo"
-		System.out.format("Sao Paulo: %s", ahoraEnSaoPaulo.format(dtFormat));
+		System.out.format("Sao Paulo: %s%n", ahoraEnSaoPaulo.format(dtFormat));
 
-		LocalDateTime ahoraEnSydney = null; //???
-		System.out.format("Sydney: %s", "Por hacer");
-		LocalDateTime ahoraEnUTCMeno7 = null; //???
-		System.out.format("Sydney: %s", "Por hacer");
+		LocalDateTime ahoraEnSydney = LocalDateTime.now(ZoneId.of("Australia/Sydney")); //???
+		System.out.format("Sydney: %s%n", ahoraEnSydney.format(dtFormat));
+		
+		LocalDateTime ahoraEnUTCMeno7 = LocalDateTime.now(ZoneId.of("-07:00")); //???
+		System.out.format("UTCMeno7: %s%n", ahoraEnUTCMeno7.format(dtFormat));
 		
 	}
 	

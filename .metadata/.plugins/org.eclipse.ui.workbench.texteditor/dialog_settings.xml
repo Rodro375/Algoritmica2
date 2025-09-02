@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<section name="java.lang.Class">
 		<item key="selection" value="@Test"/>
+		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="&quot;es"/>
+			<item value="es&quot;"/>
+			<item value="es"/>
+			<item value="&quot;ES"/>
+			<item value="languageTag"/>
+			<item value="forlan"/>
 			<item value="@Test"/>
 		</list>
 	</section>

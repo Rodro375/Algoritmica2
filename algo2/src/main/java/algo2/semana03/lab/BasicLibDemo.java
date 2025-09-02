@@ -49,7 +49,12 @@ public class BasicLibDemo {
 		case 1:
 			String radioStr = System.console().readLine("Ingrese el radio: ");
 			double radio = Double.parseDouble(radioStr);
-			System.out.format("El area del circulo con radio %f es %f%n", radio, 3.14159*radio*radio);
+			final double PI = Math.PI;
+			double area = PI * radio * radio;
+			System.out.format("El area del circulo con radio (%.3f) es %.3f (%.3f * %1$.3f * %1$.3f).%n", radio, area, PI);
+			System.out.println("Resumen de datos:");
+			System.out.format("radio: %.3f %n", radio);
+			System.out.format("área: %.3f", area); 
 			break;
 		case 2:
 			System.out.println("???(Por desarrollar.)");

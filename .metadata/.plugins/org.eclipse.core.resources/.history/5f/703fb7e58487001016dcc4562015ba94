@@ -1,0 +1,57 @@
+package algo2.semana03.lab;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.time.DayOfWeek;
+import java.time.format.TextStyle;
+import java.util.Calendar;
+import java.util.Locale;
+
+public class MensajePorDia {
+	private String[] nombreDia = {"Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo"};
+	private String[] mensajeDia = {"Algo2", "GPS", "MAE", "...", "MAE", "...", "..."};
+	Locale localePeru = new Locale("kr", "KR");
+	
+	public static void main(String[] args) throws Exception {
+		MensajePorDia m = new MensajePorDia();
+		m.mostrarMenu();
+		int dia = m.leerDia();
+		m.mostrarMensaje(dia);
+	}
+
+	void mostrarMenu(){
+		for (DayOfWeek dia : DayOfWeek.values()) {
+			 System.out.println(dia.getDisplayName(TextStyle.FULL, localePeru));
+		}
+	}
+	int leerDiaValido(){
+		int dia;
+			try {
+				dia = leerDia();
+				return dia;
+			} catch (Exception e) {
+				return leerDiaValido();
+			}
+	}
+	
+	int leerDia() throws Exception{
+		//String diaOpt = System.console().readLine("Seleccione un dia: ");
+		System.out.print("Seleccione un dia: ");
+		String diaOpt = new BufferedReader(new InputStreamReader(System.in)).readLine();
+		int dia = Integer.parseInt(diaOpt);		
+		if (diaValido(dia))
+			return dia;
+		else throw new Exception("El dia seleccionado no es valido");
+		
+	}
+	private boolean diaValido(int dia) {
+		return dia >0 && dia <= nombreDia.length;
+	}
+	
+	void mostrarMensaje(int dia){
+		//DayOfWeek.
+		//System.out.format("El dia seleccionado es %d, %s: %s.%n", dia, nombreDia[dia-1], mensajeDia[dia-1]);
+		System.out.format("El día seleccionado es %d, %s", dia, DayOfWeek.of(dia).getDisplayName(TextStyle.FULL, localePeru));
+	}
+	
+}
