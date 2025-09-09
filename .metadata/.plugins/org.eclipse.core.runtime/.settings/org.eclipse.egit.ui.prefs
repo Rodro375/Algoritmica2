@@ -3,3 +3,5 @@ RepositorySearchDialogSearchPath=C\:\\algo2\\2025-2\\workspace
 RepositorySearchDialogSkipHidden=true
 eclipse.preferences.version=1
 repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

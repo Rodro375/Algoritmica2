@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="552"/>
-		<item key="DIALOG_Y_ORIGIN" value="71"/>
-		<item key="DIALOG_WIDTH" value="1026"/>
-		<item key="DIALOG_HEIGHT" value="747"/>
+		<item key="DIALOG_X_ORIGIN" value="308"/>
+		<item key="DIALOG_Y_ORIGIN" value="68"/>
+		<item key="DIALOG_WIDTH" value="1394"/>
+		<item key="DIALOG_HEIGHT" value="1003"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.papyrus.uml.diagram.wizards.createproject"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.e4.tools"/>
+			<item value="org.eclipse.e4.tools/org.eclipse.e4.tools.classes"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.debug.ui.java"/>
+			<item value="org.eclipse.papyrus.wizards.category"/>
+			<item value="org.eclipse.papyrus.wizards.category/org.eclipse.papyrus.wizards.custo.category"/>
+			<item value="org.eclipse.papyrus.wizards.category/org.eclipse.papyrus.wizards.custo.category/org.eclipse.papyrus.wizards.custo.editors.category"/>
+			<item value="org.eclipse.papyrus.wizards.category/org.eclipse.papyrus.wizards.custo.category/org.eclipse.papyrus.wizards.custo.framework.category"/>
+			<item value="org.eclipse.papyrus.wizards.category/org.eclipse.papyrus.wizards.custo.category/org.eclipse.papyrus.wizards.custo.modelexplorer.category"/>
+			<item value="org.eclipse.papyrus.wizards.category/org.eclipse.papyrus.wizards.custo.category/org.eclipse.papyrus.wizards.custo.properties.category"/>
+			<item value="org.eclipse.papyrus.wizards.category/org.eclipse.papyrus.wizards.dev.category"/>
+			<item value="org.eclipse.papyrus.wizards.category/org.eclipse.papyrus.wizards.dev.category/org.eclipse.papyrus.wizards.dev.framework.category"/>
+			<item value="org.eclipse.pde.PDE"/>
+			<item value="org.eclipse.ui.Examples"/>
+			<item value="org.eclipse.ui.Examples/org.eclipse.papyrus.developer.doc.examples"/>
+			<item value="org.eclipse.ui.Examples/org.eclipse.papyrus.examples"/>
+		</list>
 		<section name="NewWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="706"/>
 			<item key="DIALOG_Y_ORIGIN" value="222"/>
