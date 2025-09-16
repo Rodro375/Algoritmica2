@@ -2,9 +2,10 @@
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<section name="java.lang.Class">
-		<item key="selection" value=""/>
+		<item key="selection" value="public String toString() {"/>
 		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="public String toString() {"/>
 			<item value="&quot;es"/>
 			<item value="es&quot;"/>
 			<item value="es"/>

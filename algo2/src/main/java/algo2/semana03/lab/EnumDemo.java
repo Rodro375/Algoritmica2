@@ -1,7 +1,5 @@
 package algo2.semana03.lab;
 
-import algo2.semana01.intro.DemoFami;
-
 enum DiaDeLaSemana{
 	Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo;
 }
