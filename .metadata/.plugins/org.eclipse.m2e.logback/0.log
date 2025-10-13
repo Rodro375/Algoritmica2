@@ -249,3 +249,205 @@
 2025-08-25 19:17:15,252 [Worker-232: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-08-25 19:17:15,253 [Worker-232: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
 2025-09-01 14:28:16,235 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-10-13 15:01:34,793 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-13 15:02:38,703 [Worker-202: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fisi.episw.202502:algo2:0.0.1-SNAPSHOT @ C:\algo2\2025-2\workspace\algo2\pom.xml.
+2025-10-13 15:02:38,703 [Worker-211: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fisi.episw.202502:algo2:0.0.1-SNAPSHOT @ C:\algo2\2025-2\workspace\algo2\pom.xml.
+2025-10-13 15:02:40,073 [Worker-211: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:02:40,074 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:02:40,077 [Worker-211: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:02:40,077 [Worker-211: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:02:41,217 [Worker-182: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fisi.episw.202502:algo2:0.0.1-SNAPSHOT @ C:\algo2\2025-2\workspace\algo2\pom.xml.
+2025-10-13 15:32:16,574 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:32:16,576 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:32:16,577 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:32:16,577 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:35:06,916 [Worker-224: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:35:06,917 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:35:06,919 [Worker-224: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:35:06,919 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:35:52,548 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:35:52,548 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:35:52,551 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:35:52,551 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:36:03,751 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:36:03,751 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:36:03,753 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:36:03,753 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:36:36,823 [Worker-224: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:36:36,823 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:36:36,825 [Worker-224: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:36:36,825 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:37:08,024 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:37:08,025 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:37:08,026 [Worker-234: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:37:08,026 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:37:20,484 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating ListaEnlazadaTest from maven configuration
+2025-10-13 15:37:22,596 [Worker-224: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:37:22,597 [Worker-224: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:37:22,598 [Worker-224: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:37:22,598 [Worker-224: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:38:48,100 [Worker-224: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:38:48,101 [Worker-224: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:38:48,102 [Worker-224: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:38:48,102 [Worker-224: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:39:27,123 [Worker-224: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:39:27,124 [Worker-224: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:39:27,125 [Worker-224: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:39:27,125 [Worker-224: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:43:40,256 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:43:40,257 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:43:40,258 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:43:40,259 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:44:48,754 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:44:48,755 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:44:48,756 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:44:48,756 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:45:09,848 [Worker-200: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:45:09,848 [Worker-200: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:45:09,849 [Worker-200: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:45:09,850 [Worker-200: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:52:12,326 [Worker-243: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:52:12,327 [Worker-243: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:52:12,328 [Worker-243: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:52:12,328 [Worker-243: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:52:20,433 [Worker-238: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:52:20,433 [Worker-238: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 15:52:20,435 [Worker-238: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 15:52:20,435 [Worker-238: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 15:53:45,197 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating ListaEnlazadaTest.testClear from maven configuration
+2025-10-13 16:03:07,325 [Worker-241: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:03:07,326 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:03:07,327 [Worker-241: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:03:07,328 [Worker-241: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:03:18,829 [Worker-235: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:03:18,830 [Worker-235: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:03:18,831 [Worker-235: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:03:18,832 [Worker-235: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:38:59,504 [Worker-250: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:38:59,504 [Worker-250: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:38:59,505 [Worker-250: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:38:59,506 [Worker-250: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:40:52,975 [Worker-248: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:40:52,976 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:40:52,977 [Worker-248: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:40:52,977 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:40:55,851 [Worker-246: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:40:55,851 [Worker-246: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:40:55,852 [Worker-246: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:40:55,853 [Worker-246: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:41:29,584 [Worker-246: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:41:29,585 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:41:29,586 [Worker-246: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:41:29,586 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:43:06,184 [Worker-246: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:43:06,185 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:43:06,186 [Worker-246: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:43:06,187 [Worker-246: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:44:01,619 [Worker-248: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:44:01,619 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:44:01,620 [Worker-248: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:44:01,620 [Worker-248: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:45:27,901 [Worker-252: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:45:27,902 [Worker-252: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:45:27,903 [Worker-252: Launching ListaEnlazadaTest] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:45:27,904 [Worker-252: Launching ListaEnlazadaTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:45:55,243 [Worker-253: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:45:55,243 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:45:55,244 [Worker-253: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:45:55,244 [Worker-253: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:46:31,356 [Worker-252: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:46:31,357 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:46:31,358 [Worker-252: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:46:31,358 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:46:51,375 [Worker-251: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:46:51,375 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:46:51,376 [Worker-251: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:46:51,377 [Worker-251: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:47:05,357 [Worker-249: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:47:05,357 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:47:05,358 [Worker-249: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:47:05,359 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:54:14,250 [Worker-246: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:54:14,251 [Worker-246: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:54:14,252 [Worker-246: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:54:14,252 [Worker-246: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:57:39,621 [Worker-258: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:57:39,622 [Worker-258: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:57:39,623 [Worker-258: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:57:39,623 [Worker-258: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 16:57:50,770 [Worker-249: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:57:50,771 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 16:57:50,772 [Worker-249: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 16:57:50,772 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:06:31,471 [Worker-257: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:06:31,471 [Worker-257: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:06:31,472 [Worker-257: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:06:31,473 [Worker-257: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:07:27,432 [Worker-258: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:07:27,433 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:07:27,434 [Worker-258: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:07:27,435 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:09:22,065 [Worker-257: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:09:22,066 [Worker-257: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:09:22,067 [Worker-257: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:09:22,067 [Worker-257: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:10:00,215 [Worker-251: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:10:00,216 [Worker-251: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:10:00,217 [Worker-251: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:10:00,217 [Worker-251: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:12:25,728 [Worker-257: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:12:25,729 [Worker-257: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:12:25,730 [Worker-257: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:12:25,731 [Worker-257: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:14:56,167 [Worker-258: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:14:56,167 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:14:56,168 [Worker-258: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:14:56,169 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:15:47,800 [Worker-262: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:15:47,801 [Worker-262: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:15:47,802 [Worker-262: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:15:47,802 [Worker-262: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:18:30,835 [Worker-263: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:18:30,836 [Worker-263: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:18:30,837 [Worker-263: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:18:30,837 [Worker-263: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:19:20,928 [Worker-249: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:19:20,929 [Worker-249: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:19:20,930 [Worker-249: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:19:20,930 [Worker-249: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:19:29,897 [Worker-265: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:19:29,898 [Worker-265: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:19:29,899 [Worker-265: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:19:29,899 [Worker-265: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:22:35,555 [Worker-263: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:22:35,556 [Worker-263: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:22:35,557 [Worker-263: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:22:35,557 [Worker-263: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:24:33,699 [Worker-258: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:24:33,700 [Worker-258: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:24:33,701 [Worker-258: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:24:33,701 [Worker-258: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:25:46,465 [Worker-268: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:25:46,465 [Worker-268: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:25:46,466 [Worker-268: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:25:46,467 [Worker-268: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:27:33,947 [Worker-261: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:27:33,947 [Worker-261: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:27:33,948 [Worker-261: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:27:33,949 [Worker-261: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:27:59,923 [Worker-262: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:27:59,924 [Worker-262: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:27:59,925 [Worker-262: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:27:59,925 [Worker-262: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:32:52,682 [Worker-249: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:32:52,684 [Worker-249: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:32:52,684 [Worker-249: Launching ListaEnlazada] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:32:52,684 [Worker-249: Launching ListaEnlazada] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:38:12,061 [Worker-258: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:38:12,062 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:38:12,063 [Worker-258: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:38:12,064 [Worker-258: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
+2025-10-13 17:41:03,789 [Worker-264: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:41:03,790 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\main\resources
+2025-10-13 17:41:03,791 [Worker-264: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-10-13 17:41:03,791 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\algo2\2025-2\workspace\algo2\src\test\resources
