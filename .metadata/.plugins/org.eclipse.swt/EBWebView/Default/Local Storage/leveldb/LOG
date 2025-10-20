@@ -1,2 +1,3 @@
-2025/10/13-15:01:43.927 12020 Creating DB C:\algo2\2025-2\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/10/13-15:01:43.958 12020 Reusing MANIFEST C:\algo2\2025-2\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/20-16:03:19.064 43e8 Reusing MANIFEST C:\algo2\2025-2\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/20-16:03:19.070 43e8 Recovering log #3
+2025/10/20-16:03:19.071 43e8 Reusing old log C:\algo2\2025-2\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
